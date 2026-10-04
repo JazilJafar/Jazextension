@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Jazextension",
+  "version": "1.0",
+  "description": "this is jazils first extension",
+  "icons": {
+    "128": "120m.png",
+    "48": "48.png",
+    "16": "16.png"
+  },
+  "action": {
+    "default_icon": "16.png",
+    "default_popup": "popup.html"
+  }
+}
